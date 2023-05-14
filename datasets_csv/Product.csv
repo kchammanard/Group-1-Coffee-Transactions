@@ -1,0 +1,11 @@
+product_id,product_name,product_description,product_category,product_price
+1,Coffee,Hot brewed coffee,Beverage,2.5
+2,Croissant,Flaky and buttery pastry,Pastry,3.0
+3,Tea,Tea with milk and sugar,Beverage,2.0
+4,Muffin,Freshly baked muffin,Pastry,3.5
+5,Bagel,Toasted bagel with cream cheese,Pastry,3.0
+6,Latte,Coffee with steamed milk,Beverage,3.5
+7,Cappuccino,Coffee with foamed milk,Beverage,3.5
+8,Espresso,Strong coffee shot,Beverage,2.5
+9,Hot Chocolate,Warm chocolate drink,Beverage,3.0
+10,RedBull,RedBull,Beverage,4.0
